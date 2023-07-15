@@ -1,4 +1,4 @@
-# Azure OpenAI
+# Azure OpenAI Intelligent Chatbot
 An intelligent, conversational, context-aware chatbot that can be utilized to answer questions about your own documented data.
 
 This repository utilizes Meta's in-memory vector index [Faiss](https://ai.meta.com/tools/faiss/), as well as [LangChain](https://github.com/hwchase17/langchain) Python library, and Azure OpenAI's [Embedding](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/reference#embeddings) and [Completion](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/reference#completions) services.
