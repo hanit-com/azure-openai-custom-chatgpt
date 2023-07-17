@@ -27,7 +27,7 @@ Generating a Completion (solid arrows flow)
 1. Clone the repository:
 
    ```
-   git clone https://github.com/hanit-com/azure-openai-conversational-chatbot.git
+   git clone https://github.com/hanit-com/azure-openai-custom-chatgpt.git
    ```
 
 2. Create a Python environment:
