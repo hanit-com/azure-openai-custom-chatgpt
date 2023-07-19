@@ -50,7 +50,7 @@ Generating a Completion (solid arrows flow)
 
 ## Configuration
 
-1. Create a file named '.env' with the following variables.
+1. Create a '.env' file with the following variables.
 Complete the API key and the Azure resource endpoint base from your azure account.
 Select an instance on the [Cognitive Services Hub](https://portal.azure.com/#view/Microsoft_Azure_ProjectOxford/CognitiveServicesHub/~/OpenAI) and go to "Keys and Endpoints".  
 Use either "KEY 1" or "KEY 2" and the "Endpoint" field.
